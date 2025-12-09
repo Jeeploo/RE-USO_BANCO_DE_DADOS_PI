@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.png" alt="RE:Uso Logo" width="320px">
+  <img src="./logo.jpeg" alt="RE:Uso Logo" width="320px">
 </div>
 
 # 🌱 **RE:Uso — Plataforma Inteligente para Conexões Sustentáveis**  
